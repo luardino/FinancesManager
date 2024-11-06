@@ -5,7 +5,7 @@ export function Dashboard(){
     return(
         <Container>
             <Title>
-                DASHBOARD
+                Dashboard
             </Title>
         </Container>
     )
